@@ -1,4 +1,4 @@
-빌드 확인 용으로 .env 파일을 gitignore에 추가하지 않음
+빌드 확인 용으로 .env 파일을 gitignore에 추가하지 않음   
 아래 명령어로 모든 env 활용한 빌드 결과물 생성 가능
 ```sh
 npm run bulid:all
